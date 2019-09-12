@@ -18,7 +18,7 @@ import android.widget.LinearLayout;
 
 import java.io.IOException;
 
-public class AudioRecordTest extends AppCompatActivity {
+public class AudioRecordTest extends AppCompatActivity implements MainActivity {
 
     private static final String LOG_TAG = "AudioRecordTest";
     private static final int REQUEST_RECORD_AUDIO_PERMISSION = 200;
