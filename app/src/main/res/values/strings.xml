@@ -1,4 +1,8 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="send">Send</string>
+    <string name="app_name">THUMPRINT</string>
+    <string name="captureKnock">Capture Knock</string>
+    <string name="revealKnock">Reveal Knock</string>
+    <string name="close">Close</string>
     <string name="action_settings">Settings</string>
 </resources>
